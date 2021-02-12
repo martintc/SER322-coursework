@@ -1,0 +1,7 @@
+*/*.class
+*/Makefile
+*/_MACOS
+Assignment5/Code/Makefile
+*.class
+*.jar
+*.xml
